@@ -143,6 +143,10 @@ export default {
         "彼方尚有荣光在，世界不止眼前的苟且，还有诗和远方",
         "累了可以在我这里歇歇脚嗷",
         "May you happy every day",
+        "少年清风伴旭阳，当时只道是寻常",
+        "愿将来胜过往",
+        "前路漫漫，莫忘身后有星光",
+        "所到之处，皆为热土，心之所向，皆是美好"
       ],
       btnList: [
         {
@@ -215,7 +219,7 @@ export default {
         }
       ],
       upTime: '2024-11-2',
-      version: '1.0',
+      version: '1.1',
       gridRows: 9,
       gridCols: 5,
       active: false,
