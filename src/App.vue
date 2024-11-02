@@ -26,11 +26,11 @@
       </div>
 
       <div class="typewriter">
-        <i class="iconfont icon-baojiaquotation2"></i>
+        <i class="iconfont icon-quotesUp1"></i>
         <VueTyped :strings="typingTexts" :startDelay="300" :typeSpeed="100" :backSpeed="30" :loop="true"
           :showCursor="true">
         </VueTyped>
-        <i class="iconfont icon-baojiaquotation"></i>
+        <i class="iconfont icon-quotesUp"></i>
       </div>
 
       <div class="btns">
@@ -152,9 +152,9 @@ export default {
           href: 'https://blog.honahec.cc'
         },
         {
-          icon: 'icon-wodeboke',
+          icon: 'icon-14',
           animate: 'ICS论坛',
-          color: '#fe8599',
+          color: '#90EE90',
           href: 'https://forum.honahec.cc'
         },
         {
@@ -170,13 +170,13 @@ export default {
           href: 'https://space.bilibili.com/299797909'
         },
         {
-          icon: 'icon-youjian1',
+          icon: 'icon-youjian',
           animate: 'E-mail',
           color: '#FACB1E',
           href: 'mailto:honahec@gmail.com'
         },
         {
-          icon: 'icon-wangyiyunyinle1',
+          icon: 'icon-wangyiyunyinle',
           animate: '网易云',
           color: '#D81E06',
           href: 'https://music.163.com/#/user/home?id=1418921824'
@@ -185,7 +185,7 @@ export default {
       avaters: [
         {
           color: '#43B884',
-          icon: 'icon-vue',
+          icon: 'icon-Vue',
           content: 'Vue3'
         },
         {
@@ -207,10 +207,15 @@ export default {
           color: '#000',
           icon: 'icon-github',
           content: 'Github'
+        },
+        {
+          color: '#ff7500',
+          icon: 'icon-aliyun',
+          content: '阿里云'
         }
       ],
-      upTime: '2024-11-1',
-      version: 'beta1',
+      upTime: '2024-11-2',
+      version: '1.0',
       gridRows: 9,
       gridCols: 5,
       active: false,
@@ -254,6 +259,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4685493_lrpbngzgvbk.css);
+@import url(//at.alicdn.com/t/c/font_4730772_bdc1qnyho9d.css);
 /* 阿里巴巴图标库 */
 </style>
