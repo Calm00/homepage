@@ -216,10 +216,15 @@ export default {
           color: '#ff7500',
           icon: 'icon-aliyun',
           content: '阿里云'
+        },
+        {
+          color: '#ADD8E6',
+          icon: 'icon-cloud',
+          content: '多吉云'
         }
       ],
       upTime: '2024-11-2',
-      version: '1.1',
+      version: '1.2',
       gridRows: 9,
       gridCols: 5,
       active: false,
@@ -263,6 +268,6 @@ export default {
 </script>
 
 <style lang="less">
-@import url(//at.alicdn.com/t/c/font_4730772_bdc1qnyho9d.css);
+@import url(//at.alicdn.com/t/c/font_4730772_pnwrh4bpjfl.css);
 /* 阿里巴巴图标库 */
 </style>
