@@ -223,8 +223,8 @@ export default {
           content: '多吉云'
         }
       ],
-      upTime: '2024-11-2',
-      version: '1.2',
+      upTime: '2024-11-03',
+      version: '1.3.1',
       gridRows: 9,
       gridCols: 5,
       active: false,
