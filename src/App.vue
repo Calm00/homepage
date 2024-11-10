@@ -91,6 +91,10 @@
           <p><a href="https://github.com/Calm00/homepage"
               target="_blank">https://github.com/Calm00/homepage</a>
           </p>
+          <p>原作者：</p>
+          <p><a href="https://github.com/Calm00" target="_blank">
+              target="_blank">https://github.com/QNquenan/homepage-for-vue3</a>
+          </p>
         </vs-alert>
       </div>
 
