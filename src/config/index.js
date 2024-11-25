@@ -1,7 +1,4 @@
 export const siteConfig = {
-  title: 'Honahecの个人主页',
-  description: '这里是Honahec的主页吖！',
-  keywords: 'Honahec,个人网站,个人主页,博客',
   version: '2.0',
   upTime: '2024-11-25'
 };

@@ -1,5 +1,4 @@
 import { createApp } from 'vue'
-import './style.css'
 import App from './App.vue'
 import { VsButton, VsAvatar, VsTooltip, VsDialog, VsNotification, VsAlert } from 'vuesax-alpha'
 import VueTyped from 'vue3-typed-js'
